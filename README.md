@@ -61,6 +61,6 @@ else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```
 # Output : 
-![image](https://user-images.githubusercontent.com/75235167/166418931-67b8942d-0881-4c48-859c-3ab86dec9f22.png)
+![image](https://user-images.githubusercontent.com/75235167/168959595-af9d46c2-6d65-4971-bee4-df7b1c65959b.png)
 # Result :
 Thus, fitting binomial distribution for the given frequencey distribution is verified.
